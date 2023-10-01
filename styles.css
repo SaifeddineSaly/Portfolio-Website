@@ -576,3 +576,20 @@ footer {
   text-decoration: underline;
   color: white;
 }
+
+.p-st-g {
+    display: block;
+    background-color: darkgray;
+    width: fit-content;
+    padding: 6px;
+    border: 2px black solid;
+    border-radius: 9px;
+    font-size: 20px;
+    /* font-weight: bold; */
+    margin: auto;
+    margin-bottom: 15px;
+  }
+
+.wordd {
+  font-weight: bold;
+}
